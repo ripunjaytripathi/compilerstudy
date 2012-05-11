@@ -1,0 +1,7 @@
+#name "./bothcomments.cool"
+#1 INT_CONST -
+#1 '-'
+LEXER BUG - UNMATCHED:  
+#1 ERROR "Exception in thread "main" java.lang.NullPointerException
+	at Utilities.dumpToken(Utilities.java:219)
+	at Lexer.main(Lexer.java:44)

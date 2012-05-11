@@ -1,0 +1,7 @@
+#name "./atoi.cool"
+#1 INT_CONST 
+#1 '('
+#1 '*'
+Exception in thread "main" java.lang.Error: Lexical Error: Unmatched Input.
+	at CoolLexer.next_token(CoolLexer.java:603)
+	at Lexer.main(Lexer.java:43)

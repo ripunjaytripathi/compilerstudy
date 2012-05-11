@@ -1,0 +1,6 @@
+#name "./longstring_escapedbackslashes.cool"
+#1 INT_CONST 
+LEXER BUG - UNMATCHED: "
+#1 ERROR "Exception in thread "main" java.lang.NullPointerException
+	at Utilities.dumpToken(Utilities.java:219)
+	at Lexer.main(Lexer.java:44)

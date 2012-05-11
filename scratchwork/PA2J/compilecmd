@@ -1,0 +1,3 @@
+mv cool.lex.java CoolLexer.java
+javac -classpath /usr/class/cs143/cool/lib/java-cup-11a.jar:/usr/class/cs143/cool/lib/jlex.jar:.:/usr/java/lib/rt.jar AbstractSymbol.java AbstractTable.java BoolConst.java CgenSupport.java Flags.java IdSymbol.java IdTable.java IntSymbol.java IntTable.java Lexer.java StringSymbol.java StringTable.java TokenConstants.java Utilities.java CoolLexer.java
+

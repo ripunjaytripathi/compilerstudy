@@ -1,0 +1,12 @@
+#name "./badidentifiers.cool"
+#1 INT_CONST 
+#1 TYPEID inky
+#1 '.'
+#1 TYPEID binky
+#1 '.'
+#1 TYPEID winky
+#1 '.'
+#1 TYPEID dot
+Exception in thread "main" java.lang.Error: Lexical Error: Unmatched Input.
+	at CoolLexer.next_token(CoolLexer.java:603)
+	at Lexer.main(Lexer.java:43)
