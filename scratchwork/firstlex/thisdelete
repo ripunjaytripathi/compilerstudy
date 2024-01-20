@@ -18,3 +18,4 @@ total 20
 -rw-rw-r-- 1 ripunjay ripunjay 1791 Jan 20 18:11 firstlex.lex
 ripunjay@rthome-ubuntu:~/study/git/mainrepo/compilerstudy/scratchwork/firstlex$ vim testlex 
 ripunjay@rthome-ubuntu:~/study/git/mainrepo/compilerstudy/scratchwork/firstlex$ git status
+This is to be deleted - just for some tests.
