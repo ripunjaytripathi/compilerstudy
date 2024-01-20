@@ -1,0 +1,20 @@
+ripunjay@rthome-ubuntu:~/study/git/mainrepo/compilerstudy$ cd scratchwork/
+ripunjay@rthome-ubuntu:~/study/git/mainrepo/compilerstudy/scratchwork$ ltr
+total 56
+-rw-rw-r-- 1 ripunjay ripunjay  6978 Jan 20 18:11 Yylex.class
+-rw-rw-r-- 1 ripunjay ripunjay   386 Jan 20 18:11 sym.java
+-rw-rw-r-- 1 ripunjay ripunjay  9235 Jan 20 18:11 simple.jlex.java
+-rw-rw-r-- 1 ripunjay ripunjay  1814 Jan 20 18:11 simple.jlex
+-rw-rw-r-- 1 ripunjay ripunjay 10686 Jan 20 18:11 sample.jlex.java
+-rw-rw-r-- 1 ripunjay ripunjay  1231 Jan 20 18:11 sample.jlex
+-rw-rw-r-- 1 ripunjay ripunjay   467 Jan 20 18:11 Sample.class
+drwxrwxr-x 3 ripunjay ripunjay  4096 Jan 20 18:11 PA2J
+drwxrwxr-x 2 ripunjay ripunjay  4096 Jan 20 18:11 firstlex
+ripunjay@rthome-ubuntu:~/study/git/mainrepo/compilerstudy/scratchwork$ cd firstlex
+ripunjay@rthome-ubuntu:~/study/git/mainrepo/compilerstudy/scratchwork/firstlex$ ltr
+total 20
+-rw-rw-r-- 1 ripunjay ripunjay   15 Jan 20 18:11 testlex
+-rw-rw-r-- 1 ripunjay ripunjay 9733 Jan 20 18:11 startcon.lex
+-rw-rw-r-- 1 ripunjay ripunjay 1791 Jan 20 18:11 firstlex.lex
+ripunjay@rthome-ubuntu:~/study/git/mainrepo/compilerstudy/scratchwork/firstlex$ vim testlex 
+ripunjay@rthome-ubuntu:~/study/git/mainrepo/compilerstudy/scratchwork/firstlex$ git status
